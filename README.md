@@ -2,7 +2,7 @@
 
 **Plugin Minecraft 1.21.1** | Paper/Folia |
 
-Hệ thống mời bạn bè, quà comeback, và sự kiện **Chung Sức** cho server MineVN EconomySMP.
+Hệ thống mời bạn bè, quà comeback, và sự kiện **Chung Sức** cho server SokiMC EconomySMP.
 
 ---
 
